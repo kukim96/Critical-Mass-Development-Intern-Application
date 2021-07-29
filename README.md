@@ -25,6 +25,12 @@ server. It was also a first project that incorporated jQuery which allowed the a
 ## Inspiration
 *Works that inspired me from a technical perspective*
 
+### Mint https://mint.intuit.com/
+
+  Mint was the insipration for the Personal Financial Planner application. It is one of the most efficient budgeting apps out in the market. Users are able to see all their financial accounts and
+transactions in one place. It categorizes transactions, and users are able to set personal budgets and financial goals. It also has a mobile version called Mint: Personal Finance & Money. Users have access to all the information available on Mint.com on their smartphone. Mint uses jQuery, PHP mainly on the frontend, and their database is MySQL. Mint used to use Yodlee to pull in banking information from financial institutions, but since the acquisition by Intuit, they use Intuits API.
+
+### 
 ## Focus
 *If I was given the time and resources to build/learn anything I wanted during my internship, where would I choose to focus my efforts?*
 
