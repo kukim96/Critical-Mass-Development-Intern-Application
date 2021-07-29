@@ -32,9 +32,8 @@ transactions in one place. It categorizes transactions, and users are able to se
 ### Wealthsimple https://www.wealthsimple.com/en-ca/
 Wealthsimple is a mobile app that offers variety of financial services. Their current services include Invest, Cash, Trade, Crypto and Tax. Invest automatically invests users' money depending on the    portfolio type. Cash is where users can send and receive cash in seconds. Trade is a brokerage account for trading. Crypto is a crpyto investment platform where users can invest in top coins and tokens like Bitcoin, Dogecoin, Ethereum and etc. Wealthsimple uses mixture of Ruby on Rails, Java/Kotlin, NodeJS and front end UI libraries in React or React Native. They host the services on AWS using things like Aurora, SQS, Kafka and etc.
 
-### 
 ## Focus
-*If I was given the time and resources to build/learn anything I wanted during my internship, where would I choose to focus my efforts?*
+If I was given the time and resources to build/learn anything I wanted during my internship, I would like to build a interactive task manager. It will enable coworkers to each input what their tasks are looking like for the day and make any notes if required. If it is a collabarative projects or work, the interactive task manager allows them to create a group and share any information or files necessary to get the job done. This would minimize confussion especailly during a large projects and also at these times where a lot of people are working remotely, it minimizes the need to send out bunch of emails that can be troublesome. Instead, they are able to see everything in one place, the itneractive task manager.
 
 ## Code Challenge
-My solution to the Code Challenge: 
+My solution to the Code Challenge: https://codesandbox.io/s/2021-internship-exercise-menu-forked-zqjbo?file=/src/index.js
