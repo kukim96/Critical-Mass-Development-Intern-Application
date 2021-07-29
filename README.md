@@ -36,4 +36,4 @@ Wealthsimple is a mobile app that offers variety of financial services. Their cu
 If I was given the time and resources to build/learn anything I wanted during my internship, I would like to build a interactive task manager. It will enable coworkers to each input what their tasks are looking like for the day and make any notes if required. If it is a collabarative projects or work, the interactive task manager allows them to create a group and share any information or files necessary to get the job done. This would minimize confussion especailly during a large projects and also at these times where a lot of people are working remotely, it minimizes the need to send out bunch of emails that can be troublesome. Instead, they are able to see everything in one place, the itneractive task manager.
 
 ## Code Challenge
-My solution to the Code Challenge: https://codesandbox.io/s/2021-internship-exercise-menu-forked-zqjbo?file=/src/index.js
+My solution to the Code Challenge: https://codesandbox.io/s/2021-internship-exercise-menu-forked-zqjbo?file=/index.html
